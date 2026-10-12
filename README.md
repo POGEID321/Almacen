@@ -25,7 +25,7 @@ HISTORICO:
 Historico de Stock, Consumo y movimientos de un material seleccionado de la tabla de Materiales, los datos fueron crizados con el historial de movimientos.
 
 REGISTRO DE CONSUMO EN CONTENEDORES DE QUIMICOS:
-<img width="1187" height="748" alt="Captura de pantalla 2026-10-12 130250" src="https://github.com/user-attachments/assets/88da59c7-9f15-4ed7-92fb-f0261f77e7c6" />
+<img width="1006" height="631" alt="Sin título" src="https://github.com/user-attachments/assets/8878fcc3-b274-455b-b6d5-9fc23d7fe436" />
 LLeva el registro de quimicos consumidos por produccion y la distribucion de estos, ademas de registrar todos estos datos en un mismo lugar.
 
 Registro de Objetos Nuevos o Objetos no definidos:
@@ -39,8 +39,8 @@ Tasa de rotación de stock: Mide cuántas veces se renueva el inventario en un a
 
 Exactitud de inventario: Compara lo que registra el sistema informático frente a la cantidad real que hay físicamente en los estantes. Lo ideal es buscar un porcentaje superior al 98%.
 
-Nivel de obsolescencia: Porcentaje de repuestos que llevan mucho tiempo sin movimiento (generalmente más de 12 meses) y ocupan espacio valioso. [1, 2]
-Cobertura de stock: Indica para cuántos días o meses alcanza el inventario actual según el ritmo de ventas actual. [1]
+Nivel de obsolescencia: Porcentaje de repuestos que llevan mucho tiempo sin movimiento (generalmente más de 12 meses) y ocupan espacio valioso.
+Cobertura de stock: Indica para cuántos días o meses alcanza el inventario actual según el ritmo de ventas actual.
 
 Porcentaje de ocupación del almacén: Mide el espacio físico utilizado frente al total disponible. Un almacén empieza a perder agilidad y orden cuando supera el 85% de ocupación.
 
